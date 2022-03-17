@@ -1,4 +1,3 @@
-# Covid-19-GPT2-BOT
 # Finetune GPT2 on Covid-19 English Dataset
 
 🙋🏻‍♀️ Create a Covid-19 Doctor-like chatbot with GPT2
